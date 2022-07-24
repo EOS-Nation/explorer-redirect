@@ -13,5 +13,11 @@
     "next": "canary",
     "react": "*",
     "react-dom": "*"
+  },
+  "devDependencies": {
+    "typescript": "*",
+    "@types/react": "*",
+    "@types/react-dom": "*",
+    "@types/node": "*"
   }
 }
