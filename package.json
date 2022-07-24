@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "explorer",
+  "version": "0.1.0",
+  "description": "Explorer Redirect",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "canary"
+  }
+}
