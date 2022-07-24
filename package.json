@@ -10,6 +10,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "canary"
+    "next": "canary",
+    "react": "*",
+    "react-dom": "*"
   }
 }
